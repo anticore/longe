@@ -6,7 +6,6 @@ CABLES.OPS=CABLES.OPS||{};
 var Ops=Ops || {};
 Ops.Gl=Ops.Gl || {};
 Ops.Anim=Ops.Anim || {};
-Ops.Html=Ops.Html || {};
 Ops.Math=Ops.Math || {};
 Ops.Cables=Ops.Cables || {};
 Ops.Gl.Pbr=Ops.Gl.Pbr || {};
@@ -5438,110 +5437,6 @@ function exec()
 
 Ops.Boolean.IfTrueThen_v2.prototype = new CABLES.Op();
 CABLES.OPS["9549e2ed-a544-4d33-a672-05c7854ccf5d"]={f:Ops.Boolean.IfTrueThen_v2,objName:"Ops.Boolean.IfTrueThen_v2"};
-
-
-
-
-// **************************************************************
-// 
-// Ops.Html.LoadingIndicator
-// 
-// **************************************************************
-
-Ops.Html.LoadingIndicator = function()
-{
-CABLES.Op.apply(this,arguments);
-const op=this;
-const attachments=op.attachments={"css_ellipsis_css":".lds-ellipsis {\n\n}\n.lds-ellipsis div {\n  position: absolute;\n  /*top: 33px;*/\n  margin-top:-12px;\n  margin-left:-13px;\n  width: 13px;\n  height: 13px;\n  border-radius: 50%;\n  background: #fff;\n  animation-timing-function: cubic-bezier(0, 1, 1, 0);\n}\n.lds-ellipsis div:nth-child(1) {\n  left: 8px;\n  animation: lds-ellipsis1 0.6s infinite;\n}\n.lds-ellipsis div:nth-child(2) {\n  left: 8px;\n  animation: lds-ellipsis2 0.6s infinite;\n}\n.lds-ellipsis div:nth-child(3) {\n  left: 32px;\n  animation: lds-ellipsis2 0.6s infinite;\n}\n.lds-ellipsis div:nth-child(4) {\n  left: 56px;\n  animation: lds-ellipsis3 0.6s infinite;\n}\n@keyframes lds-ellipsis1 {\n  0% {\n    transform: scale(0);\n  }\n  100% {\n    transform: scale(1);\n  }\n}\n@keyframes lds-ellipsis3 {\n  0% {\n    transform: scale(1);\n  }\n  100% {\n    transform: scale(0);\n  }\n}\n@keyframes lds-ellipsis2 {\n  0% {\n    transform: translate(0, 0);\n  }\n  100% {\n    transform: translate(24px, 0);\n  }\n}\n","css_ring_css":".lds-ring {\n}\n.lds-ring div {\n  box-sizing: border-box;\n  display: block;\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  border: 3px solid #fff;\n  border-radius: 50%;\n  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;\n  border-color: #fff transparent transparent transparent;\n}\n.lds-ring div:nth-child(1) {\n  animation-delay: -0.45s;\n}\n.lds-ring div:nth-child(2) {\n  animation-delay: -0.3s;\n}\n.lds-ring div:nth-child(3) {\n  animation-delay: -0.15s;\n}\n@keyframes lds-ring {\n  0% {\n    transform: rotate(0deg);\n  }\n  100% {\n    transform: rotate(360deg);\n  }\n}\n","css_spinner_css":"._cables_spinner {\n  /*width: 40px;*/\n  /*height: 40px;*/\n  /*margin: 100px auto;*/\n  background-color: #777;\n\n  border-radius: 100%;\n  -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;\n  animation: sk-scaleout 1.0s infinite ease-in-out;\n}\n\n@-webkit-keyframes sk-scaleout {\n  0% { -webkit-transform: scale(0) }\n  100% {\n    -webkit-transform: scale(1.0);\n    opacity: 0;\n  }\n}\n\n@keyframes sk-scaleout {\n  0% {\n    -webkit-transform: scale(0);\n    transform: scale(0);\n  } 100% {\n    -webkit-transform: scale(1.0);\n    transform: scale(1.0);\n    opacity: 0;\n  }\n}",};
-const
-    inVisible = op.inBool("Visible", true),
-    inStyle = op.inSwitch("Style", ["Spinner", "Ring", "Ellipsis"], "Ring");
-
-const div = document.createElement("div");
-div.dataset.op = op.id;
-const canvas = op.patch.cgl.canvas.parentElement;
-
-inStyle.onChange = updateStyle;
-
-div.appendChild(document.createElement("div"));
-div.appendChild(document.createElement("div"));
-div.appendChild(document.createElement("div"));
-
-const size = 50;
-
-div.style.width = size + "px";
-div.style.height = size + "px";
-div.style.top = "50%";
-div.style.left = "50%";
-// div.style.border="1px solid red";
-
-div.style["margin-left"] = "-" + size / 2 + "px";
-div.style["margin-top"] = "-" + size / 2 + "px";
-
-div.style.position = "absolute";
-div.style["z-index"] = "9999999";
-
-inVisible.onChange = updateVisible;
-
-let eleId = "css_loadingicon_" + CABLES.uuid();
-
-const styleEle = document.createElement("style");
-styleEle.type = "text/css";
-styleEle.id = eleId;
-
-let head = document.getElementsByTagName("body")[0];
-head.appendChild(styleEle);
-
-op.onDelete = () =>
-{
-    remove();
-    if (styleEle)styleEle.remove();
-};
-
-updateStyle();
-
-function updateStyle()
-{
-    const st = inStyle.get();
-    if (st == "Spinner")
-    {
-        div.classList.add("_cables_spinner");
-        styleEle.textContent = attachments.css_spinner_css;
-    }
-    else div.classList.remove("_cables_spinner");
-
-    if (st == "Ring")
-    {
-        div.classList.add("lds-ring");
-        styleEle.textContent = attachments.css_ring_css;
-    }
-    else div.classList.remove("lds-ring");
-
-    if (st == "Ellipsis")
-    {
-        div.classList.add("lds-ellipsis");
-        styleEle.textContent = attachments.css_ellipsis_css;
-    }
-    else div.classList.remove("lds-ellipsis");
-}
-
-function remove()
-{
-    div.remove();
-    // if (styleEle)styleEle.remove();
-}
-
-function updateVisible()
-{
-    remove();
-    if (inVisible.get()) canvas.appendChild(div);
-}
-
-
-};
-
-Ops.Html.LoadingIndicator.prototype = new CABLES.Op();
-CABLES.OPS["e102834c-6dcf-459c-9e22-44ebccfc0d3b"]={f:Ops.Html.LoadingIndicator,objName:"Ops.Html.LoadingIndicator"};
 
 
 
