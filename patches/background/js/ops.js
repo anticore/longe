@@ -9,6 +9,7 @@ Ops.Ui=Ops.Ui || {};
 Ops.Anim=Ops.Anim || {};
 Ops.Math=Ops.Math || {};
 Ops.User=Ops.User || {};
+Ops.Boolean=Ops.Boolean || {};
 Ops.Devices=Ops.Devices || {};
 Ops.Trigger=Ops.Trigger || {};
 Ops.Gl.Meshes=Ops.Gl.Meshes || {};
@@ -2784,6 +2785,87 @@ render.onTriggered = function ()
 
 Ops.User.anticore.CustomNoise.prototype = new CABLES.Op();
 CABLES.OPS["15cd2bdc-bffd-495d-ac0b-8e1ae541702f"]={f:Ops.User.anticore.CustomNoise,objName:"Ops.User.anticore.CustomNoise"};
+
+
+
+
+// **************************************************************
+// 
+// Ops.Boolean.IfTrueThen_v2
+// 
+// **************************************************************
+
+Ops.Boolean.IfTrueThen_v2 = function()
+{
+CABLES.Op.apply(this,arguments);
+const op=this;
+const attachments=op.attachments={};
+const
+    exe = op.inTrigger("exe"),
+    boolean = op.inValueBool("boolean", false),
+    triggerThen = op.outTrigger("then"),
+    triggerElse = op.outTrigger("else");
+
+exe.onTriggered = exec;
+
+// let b = false;
+
+// boolean.onChange = () =>
+// {
+//     b = boolean.get();
+// };
+
+function exec()
+{
+    if (boolean.get()) triggerThen.trigger();
+    else triggerElse.trigger();
+}
+
+
+};
+
+Ops.Boolean.IfTrueThen_v2.prototype = new CABLES.Op();
+CABLES.OPS["9549e2ed-a544-4d33-a672-05c7854ccf5d"]={f:Ops.Boolean.IfTrueThen_v2,objName:"Ops.Boolean.IfTrueThen_v2"};
+
+
+
+
+// **************************************************************
+// 
+// Ops.Math.AddUp
+// 
+// **************************************************************
+
+Ops.Math.AddUp = function()
+{
+CABLES.Op.apply(this,arguments);
+const op=this;
+const attachments=op.attachments={};
+const
+    number = op.inValue("Number"),
+    doAdd = op.inTriggerButton("Add"),
+    doReset = op.inTriggerButton("Reset"),
+    result = op.outNumber("Result");
+
+let value = 0;
+
+doAdd.onTriggered = function ()
+{
+    value += number.get();
+    result.set(value);
+};
+
+doReset.onTriggered = function ()
+{
+    value = 0;
+    result.set(value);
+};
+
+
+};
+
+Ops.Math.AddUp.prototype = new CABLES.Op();
+CABLES.OPS["f1c76976-4c8f-43a5-a9c7-6e4c7d21c749"]={f:Ops.Math.AddUp,objName:"Ops.Math.AddUp"};
 
 
 
