@@ -1,5 +1,6 @@
-## Talks
-
+---
+title: Talks
+---
 ### Making a fun demo 
 [![[Pasted image 20240206145921.png]]](https://www.youtube.com/watch?v=R9-D4SxBd90)
 cables.gl online meetup, **2023**

@@ -1,5 +1,6 @@
-## Demoscene
-
+---
+title: Demoscene
+---
 ### Ninja de Gaia
 ![[c2c6.335295.jpg]]
 Web demo, cables.gl, **2023**

@@ -13,8 +13,13 @@ const ContentRenderer: React.FC = () => {
   const cleanHash = hash.replace(/^#\//, "");
   const currentContent = content![cleanHash];
 
+  const title = currentContent.data.matter.title;
+  const updated = currentContent.data.matter.updated;
+
   return (
     <div className="content">
+      {title && <h1>{title}</h1>}
+      {updated && <small>Updated on: {updated}</small>}
       {parse(currentContent.value, {
         // eslint-disable-next-line
         replace: ({ children, name }: any) =>

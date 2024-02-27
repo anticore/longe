@@ -1,5 +1,6 @@
-## Welcome
-
+---
+title: Welcome
+---
 {{component:Avatar}}
 
 This is the page of J. Faria, software engineer & multimedia creative.
@@ -21,4 +22,6 @@ It functions as a portfolio and a [digital garden](https://github.com/MaggieAppl
 [[photography|Photography]] 📷
 
 #### Contact
-[E-mail](mailto://joaormfaria@gmail.com) `joaormfaria@gmail.com` 📧  | [Github](https://www.github.com/anticore) 👩‍💻 | [LinkedIn](https://linkedin.com/in/joao-rm-faria) 💼
+[E-mail](mailto://joaormfaria@gmail.com) 📧   
+[Github](https://www.github.com/anticore) 👩‍💻 
+[LinkedIn](https://linkedin.com/in/joao-rm-faria) 💼

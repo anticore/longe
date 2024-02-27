@@ -1,5 +1,6 @@
-## Work
-
+---
+title: Work
+---
 I'm currently employed as a Frontend Developer at [Blip](https://www.blip.pt/), working on internal tools for [FanDuel](https://fanduel.com).
 
 ## Freelance

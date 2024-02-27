@@ -1,5 +1,6 @@
-## Audio
-
+---
+title: Audio
+---
 ### Written By Daniel - Seeds
 ![[seeds.png]]
 produced, **2016**

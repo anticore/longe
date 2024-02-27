@@ -1,4 +1,6 @@
-## Visual
+---
+title: Visual
+---
 ### Echo Chamber Effect - Flyer
 ![[cables_20231127_110243.png]]
 **december 2023**

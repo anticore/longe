@@ -1,7 +1,9 @@
-## Photography
+---
+title: Photography
+---
 **Note**: I know nothing about photography technique or gear. 
 I just like to point and shoot the lens at things I find interesting. 
-Mostly analogue point and shoot cameras.
+Mostly analogue point and shoot cameras. 
 
 ![[Pasted image 20240227123954.png]]
 
