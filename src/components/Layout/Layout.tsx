@@ -17,6 +17,8 @@ const Layout: React.FC = () => {
     if (content && content["content/index.md"] && hash === "") {
       setHash("/content/index.md");
     }
+
+    window.scrollTo({ top: 0 });
     // eslint-disable-next-line
   }, [hash]);
 
