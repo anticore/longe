@@ -1,11 +1,11 @@
-°content/about.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥About§updatedª2024-02-27§history‘°content/about.md¨messages¥valueÚy<p><img src="/longe//assets/000012%201.jpg" alt=""></p>
-<p>My name is JoÃ£o Faria and I work as a software developer and creative technologist, based in Porto, Portugal.<br>
+°content/about.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥About§updatedª2024-02-27§history‘°content/about.md¨messages¥valueÚ[<p>My name is JoÃ£o Faria and I work as a software developer and creative technologist.<br>
+Based in Porto, Portugal.<br>
 I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>.<br>
 In my free time I enjoy exploring ways to create art in different mediums, whether it is <a class="internal new" href="#/content/audio.md">audio</a>, <a class="internal new" href="#/content/visual.md">visual</a>, <a class="internal new" href="#/content/demoscene.md">code</a>, <a class="internal new" href="#/content/photography.md">photography</a>, ...<br>
 You can find out more about <a class="internal new" href="#/content/now.md">what I'm working on now</a> or <a class="internal new" href="#/content/ideas.md">what I plan to work on next</a>.</p>
+<p><img src="/longe//assets/000012%201.jpg" alt=""></p>
 <h4>Contact</h4>
-<p><a href="mailto://joaormfaria@gmail.com">E-mail</a> <code>joaormfaria@gmail.com</code> ğŸ“§  | <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’» | <a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>°content/audio.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/audio.md¨messages¥valueÚH<h2>Audio</h2>
-<h3>Written By Daniel - Seeds</h3>
+<p><a href="mailto://joaormfaria@gmail.com">E-mail</a>  ğŸ“§  | <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’» | <a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>°content/audio.md…£cwd­C:\safe\longe¤data¦matter¥title¥Audio§history‘°content/audio.md¨messages¥valueÚ9<h3>Written By Daniel - Seeds</h3>
 <p><img src="/longe//assets/seeds.png" alt=""><br>
 produced, <strong>2016</strong></p>
 <blockquote>
@@ -18,8 +18,7 @@ wrote &#x26; produced, <strong>2014</strong></p>
 <blockquote>
 <p>Antiq &#x26; Lunar Ghost are a duo hailing from Vila Nova de Gaia. They started their musical journey in the band Blackbird Prophet, and after Antiq left the group, collaborated in his solo project. The duo reunited in this project Moonhead, with the goal of fusing the two musical styles in a simultaneously dreamy and energetic album.</p>
 </blockquote>
-<p><a href="https://microfome.bandcamp.com/album/moonhead">bandcamp</a></p>´content/demoscene.md…£cwd­C:\safe\longe¤data¦matter€§history‘´content/demoscene.md¨messages¥valueÚ¥<h2>Demoscene</h2>
-<h3>Ninja de Gaia</h3>
+<p><a href="https://microfome.bandcamp.com/album/moonhead">bandcamp</a></p>´content/demoscene.md…£cwd­C:\safe\longe¤data¦matter¥title©Demoscene§history‘´content/demoscene.md¨messages¥valueÚ’<h3>Ninja de Gaia</h3>
 <p><img src="/longe//assets/c2c6.335295.jpg" alt=""><br>
 Web demo, cables.gl, <strong>2023</strong><br>
 <a href="https://files.scene.org/get/parties/2023/revision23/pc-demo/the-cryptic-call-%28gsa-4%29_6.zip">download</a><br>
@@ -45,8 +44,12 @@ Web demo, cables.gl, <strong>2022</strong><br>
 <p><img src="/longe//assets/d1ef.321102.jpg" alt=""><br>
 4kb executable, GLSL, <strong>2021</strong><br>
 <a href="https://files.scene.org/get/parties/2021/revision21/pc-4k-intro/mafamood.zip">download</a><br>
-<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/ideas.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/ideas.md¨messages¥valueº<p>Work in progress...</p>°content/index.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/index.md¨messages¥valueÚ/<h2>Welcome</h2>
-<p>{{component:Avatar}}</p>
+<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/ideas.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥Ideas§updatedª2024-02-27§history‘°content/ideas.md¨messages¥valueÚ=<p>A list of ideas I'm interested in exploring in the future.</p>
+<p>ğŸ’¡ <strong>Shader portfolio/notebook</strong>: A tool that serves both as a shader development enviroment and an UI to publish and browse them easily;</p>
+<p>ğŸ’¡ <strong>Random Android/iPhone apps list</strong>: A tool to promote discoverability of unknown mobile apps, generates a completely random or filtered list of random applications from the stores. More of a gimmick than an interesting project;</p>
+<p>ğŸ’¡ <strong><a href="https://vdo.ninja">vdo.ninja</a> integration with <a href="https://cables.gl">cables.gl</a></strong>:  Currently there's no easy/free way to pass video between two cables patches or to receive a video stream from within a cables patch.<br>
+An integration with vdo.ninja or another WebRTC technology could prove very useful for video art projects;</p>
+<p>ğŸ’¡ <strong>AI as a non-intrusive art tool</strong>: Find ways to apply AI models as postprocessing sugar, or other ways to inroduce these powerful tools into the creative workflow, without the agent replacing the artist.</p>°content/index.md…£cwd­C:\safe\longe¤data¦matter¥title§Welcome§history‘°content/index.md¨messages¥valueÚş<p>{{component:Avatar}}</p>
 <p>This is the page of J. Faria, software engineer &#x26; multimedia creative.<br>
 It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/digital-gardeners#theory-philosophy-and-navel-gazing">digital garden</a> at the same time.</p>
 <p><a class="internal new" href="#/content/about.md">About</a> ğŸ§‘<br>
@@ -62,11 +65,16 @@ It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/dig
 <h3>Other interests</h3>
 <p><a class="internal new" href="#/content/photography.md">Photography</a> ğŸ“·</p>
 <h4>Contact</h4>
-<p><a href="mailto://joaormfaria@gmail.com">E-mail</a> <code>joaormfaria@gmail.com</code> ğŸ“§  | <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’» | <a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter€§history‘³content/live_art.md¨messages¥valueÙ5<h2>Live Art</h2>
-<p><em>Work in progress...</em></p>®content/now.md…£cwd­C:\safe\longe¤data¦matter‚¥title£Now§updatedª2024-02-27§history‘®content/now.md¨messages¥valueÚº<p>ğŸ‘‰ Currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>;<br>
-ğŸ‘‰ Working on <a href="https://anticore.github.io/longe">my personal website and digital garden</a> using a custom made tool that converts an <a href="https://obsidian.md">Obsidian</a> vault into a website;<br>
-ğŸ‘‰ Making music as <strong>MONGE DE LONGE</strong>;</p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter€§history‘¶content/photography.md¨messages¥valueÚà<h2>Photography</h2>
-<p><strong>Note</strong>: I know nothing about photography technique or gear.<br>
+<p><a href="mailto://joaormfaria@gmail.com">E-mail</a> ğŸ“§<br>
+<a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’»<br>
+<a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter¥title¨Live Art§history‘³content/live_art.md¨messages¥valueÙ#<p><em>Work in progress...</em></p>®content/now.md…£cwd­C:\safe\longe¤data¦matter‚¥title£Now§updatedª2024-02-27§history‘®content/now.md¨messages¥valueÚï<p>This is a <a href="https://nownownow.com/about">now page</a>, as described by Derek Sivers.</p>
+<blockquote>
+<p>...a page that tells you <strong>what this person is focused on at this point in their life.</strong></p>
+</blockquote>
+<p>ğŸ‘‰ Working as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>;<br>
+ğŸ‘‰ Building <a href="https://anticore.github.io/longe">my personal website and digital garden</a> using a custom tool that converts an <a href="https://obsidian.md">Obsidian</a> vault into a website;<br>
+ğŸ‘‰ Making music as <strong>MONGE DE LONGE</strong>;<br>
+ğŸ‘‰ Thinking about how to use AI tools in the creative process in a complementary way.</p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter¥title«Photography§history‘¶content/photography.md¨messages¥valueÚË<p><strong>Note</strong>: I know nothing about photography technique or gear.<br>
 I just like to point and shoot the lens at things I find interesting.<br>
 Mostly analogue point and shoot cameras.</p>
 <p><img src="/longe//assets/Pasted%20image%2020240227123954.png" alt=""></p>
@@ -87,8 +95,7 @@ Mostly analogue point and shoot cameras.</p>
 <p><img src="/longe//assets/000069.jpg" alt=""></p>
 <p><img src="/longe//assets/000004.jpg" alt=""></p>
 <p><img src="/longe//assets/000023.jpg" alt=""></p>
-<p><img src="/longe//assets/000006%201.jpg" alt=""></p>°content/talks.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/talks.md¨messages¥valueÚÖ<h2>Talks</h2>
-<h3>Making a fun demo</h3>
+<p><img src="/longe//assets/000006%201.jpg" alt=""></p>°content/talks.md…£cwd­C:\safe\longe¤data¦matter¥title¥Talks§history‘°content/talks.md¨messages¥valueÚÇ<h3>Making a fun demo</h3>
 <p><a href="https://www.youtube.com/watch?v=R9-D4SxBd90"><img src="/longe//assets/Pasted%20image%2020240206145921.png" alt=""></a><br>
 cables.gl online meetup, <strong>2023</strong></p>
 <blockquote>
@@ -101,16 +108,14 @@ InÃ©rcia Demoparty, <strong>2023</strong></p>
 <blockquote>
 <p>Cables.gl is a tool for creating beautiful interactive content. With an easy to navigate interface and real time visuals, it allows for rapid prototyping and fast adjustments. Anticore and liqube will make this presentation framed from the perspective of Gaia Space Agency demos, with focus on techniques, learned lessons and nifty tricks.</p>
 </blockquote>
-<p><a href="https://www.youtube.com/watch?v=FvC3Ec_38Jo">youtube</a></p>±content/visual.md…£cwd­C:\safe\longe¤data¦matter€§history‘±content/visual.md¨messages¥valueÚõ<h2>Visual</h2>
-<h3>Echo Chamber Effect - Flyer</h3>
+<p><a href="https://www.youtube.com/watch?v=FvC3Ec_38Jo">youtube</a></p>±content/visual.md…£cwd­C:\safe\longe¤data¦matter¥title¦Visual§history‘±content/visual.md¨messages¥valueÚå<h3>Echo Chamber Effect - Flyer</h3>
 <p><img src="/longe//assets/cables_20231127_110243.png" alt=""><br>
 <strong>december 2023</strong></p>
 <blockquote>
 <p>An animated flyer, made for the audiovisual live performance "Echo Chamber Effect", that happened on december 3rd @ inercia demoparty.<br>
 "Echo Chamber Effect" is a project that gathers digital art researchers and the portuguese demoscene, and is founded in the convergence and remixing of a set of previous and original works by the group. This performance unites the digital with the analog and the pre-recorded with the immediate, through music and reproduction of realtime graphics and livecoding.</p>
 </blockquote>
-<p><a href="https://cables.gl/p/YxXl8M">animated version</a></p>¯content/work.md…£cwd­C:\safe\longe¤data¦matter€§history‘¯content/work.md¨messages¥valueÚ<h2>Work</h2>
-<p>I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>.</p>
+<p><a href="https://cables.gl/p/YxXl8M">animated version</a></p>¯content/work.md…£cwd­C:\safe\longe¤data¦matter¥title¤Work§history‘¯content/work.md¨messages¥valueÚs<p>I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>.</p>
 <h2>Freelance</h2>
 <p>Here are some freelance projects I've worked on over the years.</p>
 <h3>Envelop Stream</h3>
