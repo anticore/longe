@@ -1,4 +1,4 @@
-‰°content/audio.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/audio.md¨messages¥valueÚH<h2>Audio</h2>
+Š°content/audio.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/audio.md¨messages¥valueÚH<h2>Audio</h2>
 <h3>Written By Daniel - Seeds</h3>
 <p><img src="/longe//assets/seeds.png" alt=""><br>
 produced, <strong>2016</strong></p>
@@ -39,17 +39,21 @@ Web demo, cables.gl, <strong>2022</strong><br>
 <p><img src="/longe//assets/d1ef.321102.jpg" alt=""><br>
 4kb executable, GLSL, <strong>2021</strong><br>
 <a href="https://files.scene.org/get/parties/2021/revision21/pc-4k-intro/mafamood.zip">download</a><br>
-<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/index.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/index.md¨messages¥valueÚ<h2>Welcome</h2>
+<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/index.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/index.md¨messages¥valueÚQ<h2>Welcome</h2>
 <p>{{component:Avatar}}</p>
 <p>This is the page of J. Faria, software engineer &#x26; multimedia creative.<br>
-It functions as a portfolio and a digital garden at the same time.</p>
-<p><a class="internal new" href="#/content/audio.md">Audio</a> ğŸ‘‚ï¸<br>
+It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/digital-gardeners#theory-philosophy-and-navel-gazing">digital garden</a> at the same time.</p>
+<h3>Portfolio</h3>
+<p><a class="internal new" href="#/content/work.md">Work</a> ğŸ’»<br>
+<a class="internal new" href="#/content/audio.md">Audio</a> ğŸ‘‚ï¸<br>
 <a class="internal new" href="#/content/visual.md">Visual</a> ğŸ‘ï¸<br>
-<a class="internal new" href="#/content/work.md">Work</a> ğŸ’»<br>
 <a class="internal new" href="#/content/talks.md">Talks</a> ğŸ—£ï¸<br>
 <a class="internal new" href="#/content/demoscene.md">Demoscene</a> ğŸ’¿<br>
-<a class="internal new" href="#/content/live_art.md">Live Art</a> ğŸ­ï¸</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter€§history‘³content/live_art.md¨messages¥valueÙ5<h2>Live Art</h2>
-<p><em>Work in progress...</em></p>°content/talks.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/talks.md¨messages¥valueÚÖ<h2>Talks</h2>
+<a class="internal new" href="#/content/live_art.md">Live Art</a> ğŸ­ï¸</p>
+<h3>Other interests</h3>
+<p><a class="internal new" href="#/content/photography.md">Photography</a> ğŸ“·</p>
+<p><a href="mailto://joaormfaria@gmail.com">E-mail</a> <code>joaormfaria@gmail.com</code> ğŸ“§  | <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’» | <a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter€§history‘³content/live_art.md¨messages¥valueÙ5<h2>Live Art</h2>
+<p><em>Work in progress...</em></p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter€§history‘¶content/photography.md¨messages¥value °content/talks.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/talks.md¨messages¥valueÚÖ<h2>Talks</h2>
 <h3>Making a fun demo</h3>
 <p><a href="https://www.youtube.com/watch?v=R9-D4SxBd90"><img src="/longe//assets/Pasted%20image%2020240206145921.png" alt=""></a><br>
 cables.gl online meetup, <strong>2023</strong></p>
@@ -71,8 +75,8 @@ InÃ©rcia Demoparty, <strong>2023</strong></p>
 <p>An animated flyer, made for the audiovisual live performance "Echo Chamber Effect", that happened on december 3rd @ inercia demoparty.<br>
 "Echo Chamber Effect" is a project that gathers digital art researchers and the portuguese demoscene, and is founded in the convergence and remixing of a set of previous and original works by the group. This performance unites the digital with the analog and the pre-recorded with the immediate, through music and reproduction of realtime graphics and livecoding.</p>
 </blockquote>
-<p><a href="https://cables.gl/p/YxXl8M">animated version</a></p>¯content/work.md…£cwd­C:\safe\longe¤data¦matter€§history‘¯content/work.md¨messages¥valueÚ8<h2>Work</h2>
-<p>I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip.</a></p>
+<p><a href="https://cables.gl/p/YxXl8M">animated version</a></p>¯content/work.md…£cwd­C:\safe\longe¤data¦matter€§history‘¯content/work.md¨messages¥valueÚ<h2>Work</h2>
+<p>I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>.</p>
 <h2>Freelance</h2>
 <p>Here are some freelance projects I've worked on over the years.</p>
 <h3>Envelop Stream</h3>
