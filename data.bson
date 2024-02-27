@@ -1,4 +1,10 @@
-Š°content/audio.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/audio.md¨messages¥valueÚH<h2>Audio</h2>
+°content/about.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥About§updatedª2024-02-27§history‘°content/about.md¨messages¥valueÚy<p><img src="/longe//assets/000012%201.jpg" alt=""></p>
+<p>My name is JoÃ£o Faria and I work as a software developer and creative technologist, based in Porto, Portugal.<br>
+I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>.<br>
+In my free time I enjoy exploring ways to create art in different mediums, whether it is <a class="internal new" href="#/content/audio.md">audio</a>, <a class="internal new" href="#/content/visual.md">visual</a>, <a class="internal new" href="#/content/demoscene.md">code</a>, <a class="internal new" href="#/content/photography.md">photography</a>, ...<br>
+You can find out more about <a class="internal new" href="#/content/now.md">what I'm working on now</a> or <a class="internal new" href="#/content/ideas.md">what I plan to work on next</a>.</p>
+<h4>Contact</h4>
+<p><a href="mailto://joaormfaria@gmail.com">E-mail</a> <code>joaormfaria@gmail.com</code> ğŸ“§  | <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’» | <a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>°content/audio.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/audio.md¨messages¥valueÚH<h2>Audio</h2>
 <h3>Written By Daniel - Seeds</h3>
 <p><img src="/longe//assets/seeds.png" alt=""><br>
 produced, <strong>2016</strong></p>
@@ -39,10 +45,13 @@ Web demo, cables.gl, <strong>2022</strong><br>
 <p><img src="/longe//assets/d1ef.321102.jpg" alt=""><br>
 4kb executable, GLSL, <strong>2021</strong><br>
 <a href="https://files.scene.org/get/parties/2021/revision21/pc-4k-intro/mafamood.zip">download</a><br>
-<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/index.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/index.md¨messages¥valueÚQ<h2>Welcome</h2>
+<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/ideas.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/ideas.md¨messages¥valueº<p>Work in progress...</p>°content/index.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/index.md¨messages¥valueÚ/<h2>Welcome</h2>
 <p>{{component:Avatar}}</p>
 <p>This is the page of J. Faria, software engineer &#x26; multimedia creative.<br>
 It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/digital-gardeners#theory-philosophy-and-navel-gazing">digital garden</a> at the same time.</p>
+<p><a class="internal new" href="#/content/about.md">About</a> ğŸ§‘<br>
+<a class="internal new" href="#/content/now.md">Now</a> âŒš<br>
+<a class="internal new" href="#/content/ideas.md">Ideas</a> ğŸ’¡</p>
 <h3>Portfolio</h3>
 <p><a class="internal new" href="#/content/work.md">Work</a> ğŸ’»<br>
 <a class="internal new" href="#/content/audio.md">Audio</a> ğŸ‘‚ï¸<br>
@@ -52,8 +61,33 @@ It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/dig
 <a class="internal new" href="#/content/live_art.md">Live Art</a> ğŸ­ï¸</p>
 <h3>Other interests</h3>
 <p><a class="internal new" href="#/content/photography.md">Photography</a> ğŸ“·</p>
+<h4>Contact</h4>
 <p><a href="mailto://joaormfaria@gmail.com">E-mail</a> <code>joaormfaria@gmail.com</code> ğŸ“§  | <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’» | <a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter€§history‘³content/live_art.md¨messages¥valueÙ5<h2>Live Art</h2>
-<p><em>Work in progress...</em></p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter€§history‘¶content/photography.md¨messages¥value °content/talks.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/talks.md¨messages¥valueÚÖ<h2>Talks</h2>
+<p><em>Work in progress...</em></p>®content/now.md…£cwd­C:\safe\longe¤data¦matter‚¥title£Now§updatedª2024-02-27§history‘®content/now.md¨messages¥valueÚº<p>ğŸ‘‰ Currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>;<br>
+ğŸ‘‰ Working on <a href="https://anticore.github.io/longe">my personal website and digital garden</a> using a custom made tool that converts an <a href="https://obsidian.md">Obsidian</a> vault into a website;<br>
+ğŸ‘‰ Making music as <strong>MONGE DE LONGE</strong>;</p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter€§history‘¶content/photography.md¨messages¥valueÚà<h2>Photography</h2>
+<p><strong>Note</strong>: I know nothing about photography technique or gear.<br>
+I just like to point and shoot the lens at things I find interesting.<br>
+Mostly analogue point and shoot cameras.</p>
+<p><img src="/longe//assets/Pasted%20image%2020240227123954.png" alt=""></p>
+<p><img src="/longe//assets/000006.jpg" alt=""></p>
+<p><img src="/longe//assets/000013.jpg" alt=""></p>
+<p><img src="/longe//assets/000001.jpg" alt=""></p>
+<p><img src="/longe//assets/000020.jpg" alt=""></p>
+<p><img src="/longe//assets/000024.jpg" alt=""></p>
+<p><img src="/longe//assets/000025.jpg" alt=""></p>
+<p><img src="/longe//assets/000033.jpg" alt=""></p>
+<p><img src="/longe//assets/IMG_6529.jpg" alt=""></p>
+<p><img src="/longe//assets/IMG_6581.jpg" alt=""></p>
+<p><img src="/longe//assets/IMG_6647.jpg" alt=""></p>
+<p><img src="/longe//assets/000001%201.jpg" alt=""></p>
+<p><img src="/longe//assets/000047.jpg" alt=""></p>
+<p><img src="/longe//assets/000050.jpg" alt=""></p>
+<p><img src="/longe//assets/000059.jpg" alt=""></p>
+<p><img src="/longe//assets/000069.jpg" alt=""></p>
+<p><img src="/longe//assets/000004.jpg" alt=""></p>
+<p><img src="/longe//assets/000023.jpg" alt=""></p>
+<p><img src="/longe//assets/000006%201.jpg" alt=""></p>°content/talks.md…£cwd­C:\safe\longe¤data¦matter€§history‘°content/talks.md¨messages¥valueÚÖ<h2>Talks</h2>
 <h3>Making a fun demo</h3>
 <p><a href="https://www.youtube.com/watch?v=R9-D4SxBd90"><img src="/longe//assets/Pasted%20image%2020240206145921.png" alt=""></a><br>
 cables.gl online meetup, <strong>2023</strong></p>
