@@ -1,8 +1,7 @@
-°content/about.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥About§updatedª2024-02-27§history‘°content/about.md¨messages¥valueÚ[<p>My name is JoÃ£o Faria and I work as a software developer and creative technologist.<br>
+‹°content/about.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥About§updatedª2024-02-27§history‘°content/about.md¨messages¥valueÚ—<p>My name is JoÃ£o Faria and I work as a software developer and creative technologist.<br>
 Based in Porto, Portugal.<br>
 I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>.<br>
-In my free time I enjoy exploring ways to create art in different mediums, whether it is <a class="internal new" href="#/content/audio.md">audio</a>, <a class="internal new" href="#/content/visual.md">visual</a>, <a class="internal new" href="#/content/demoscene.md">code</a>, <a class="internal new" href="#/content/photography.md">photography</a>, ...<br>
-You can find out more about <a class="internal new" href="#/content/now.md">what I'm working on now</a> or <a class="internal new" href="#/content/ideas.md">what I plan to work on next</a>.</p>
+In my free time I enjoy exploring ways to create art in different mediums, whether it is <a class="internal new" href="#/content/audio.md">audio</a>, <a class="internal new" href="#/content/visual.md">visual</a>, <a class="internal new" href="#/content/demoscene.md">code</a>, <a class="internal new" href="#/content/photography.md">photography</a>...</p>
 <p><img src="/longe//assets/000012%201.jpg" alt=""></p>
 <h4>Contact</h4>
 <p><a href="mailto://joaormfaria@gmail.com">E-mail</a>  ğŸ“§  | <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’» | <a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>°content/audio.md…£cwd­C:\safe\longe¤data¦matter¥title¥Audio§history‘°content/audio.md¨messages¥valueÚ9<h3>Written By Daniel - Seeds</h3>
@@ -44,17 +43,9 @@ Web demo, cables.gl, <strong>2022</strong><br>
 <p><img src="/longe//assets/d1ef.321102.jpg" alt=""><br>
 4kb executable, GLSL, <strong>2021</strong><br>
 <a href="https://files.scene.org/get/parties/2021/revision21/pc-4k-intro/mafamood.zip">download</a><br>
-<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/ideas.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥Ideas§updatedª2024-02-27§history‘°content/ideas.md¨messages¥valueÚ=<p>A list of ideas I'm interested in exploring in the future.</p>
-<p>ğŸ’¡ <strong>Shader portfolio/notebook</strong>: A tool that serves both as a shader development enviroment and an UI to publish and browse them easily;</p>
-<p>ğŸ’¡ <strong>Random Android/iPhone apps list</strong>: A tool to promote discoverability of unknown mobile apps, generates a completely random or filtered list of random applications from the stores. More of a gimmick than an interesting project;</p>
-<p>ğŸ’¡ <strong><a href="https://vdo.ninja">vdo.ninja</a> integration with <a href="https://cables.gl">cables.gl</a></strong>:  Currently there's no easy/free way to pass video between two cables patches or to receive a video stream from within a cables patch.<br>
-An integration with vdo.ninja or another WebRTC technology could prove very useful for video art projects;</p>
-<p>ğŸ’¡ <strong>AI as a non-intrusive art tool</strong>: Find ways to apply AI models as postprocessing sugar, or other ways to inroduce these powerful tools into the creative workflow, without the agent replacing the artist.</p>°content/index.md…£cwd­C:\safe\longe¤data¦matter¥title§Welcome§history‘°content/index.md¨messages¥valueÚş<p>{{component:Avatar}}</p>
-<p>This is the page of J. Faria, software engineer &#x26; multimedia creative.<br>
+<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/index.md…£cwd­C:\safe\longe¤data¦matter¥title§Welcome§history‘°content/index.md¨messages¥valueÚg<p>{{component:Avatar}}</p>
+<p>This is the page of <a class="internal new" href="#/content/about.md">J. Faria</a>, software engineer &#x26; multimedia creative.<br>
 It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/digital-gardeners#theory-philosophy-and-navel-gazing">digital garden</a> at the same time.</p>
-<p><a class="internal new" href="#/content/about.md">About</a> ğŸ§‘<br>
-<a class="internal new" href="#/content/now.md">Now</a> âŒš<br>
-<a class="internal new" href="#/content/ideas.md">Ideas</a> ğŸ’¡</p>
 <h3>Portfolio</h3>
 <p><a class="internal new" href="#/content/work.md">Work</a> ğŸ’»<br>
 <a class="internal new" href="#/content/audio.md">Audio</a> ğŸ‘‚ï¸<br>
@@ -67,14 +58,7 @@ It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/dig
 <h4>Contact</h4>
 <p><a href="mailto://joaormfaria@gmail.com">E-mail</a> ğŸ“§<br>
 <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’»<br>
-<a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter¥title¨Live Art§history‘³content/live_art.md¨messages¥valueÙ#<p><em>Work in progress...</em></p>®content/now.md…£cwd­C:\safe\longe¤data¦matter‚¥title£Now§updatedª2024-02-27§history‘®content/now.md¨messages¥valueÚï<p>This is a <a href="https://nownownow.com/about">now page</a>, as described by Derek Sivers.</p>
-<blockquote>
-<p>...a page that tells you <strong>what this person is focused on at this point in their life.</strong></p>
-</blockquote>
-<p>ğŸ‘‰ Working as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>;<br>
-ğŸ‘‰ Building <a href="https://anticore.github.io/longe">my personal website and digital garden</a> using a custom tool that converts an <a href="https://obsidian.md">Obsidian</a> vault into a website;<br>
-ğŸ‘‰ Making music as <strong>MONGE DE LONGE</strong>;<br>
-ğŸ‘‰ Thinking about how to use AI tools in the creative process in a complementary way.</p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter¥title«Photography§history‘¶content/photography.md¨messages¥valueÚË<p><strong>Note</strong>: I know nothing about photography technique or gear.<br>
+<a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter¥title¨Live Art§history‘³content/live_art.md¨messages¥valueÙ#<p><em>Work in progress...</em></p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter¥title«Photography§history‘¶content/photography.md¨messages¥valueÚË<p><strong>Note</strong>: I know nothing about photography technique or gear.<br>
 I just like to point and shoot the lens at things I find interesting.<br>
 Mostly analogue point and shoot cameras.</p>
 <p><img src="/longe//assets/Pasted%20image%2020240227123954.png" alt=""></p>
