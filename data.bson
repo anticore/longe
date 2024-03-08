@@ -1,4 +1,4 @@
-‹°content/about.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥About§updatedª2024-02-27§history‘°content/about.md¨messages¥valueÚ—<p>My name is JoÃ£o Faria and I work as a software developer and creative technologist.<br>
+Œ°content/about.md…£cwd­C:\safe\longe¤data¦matter‚¥title¥About§updatedª2024-02-27§history‘°content/about.md¨messages¥valueÚ—<p>My name is JoÃ£o Faria and I work as a software developer and creative technologist.<br>
 Based in Porto, Portugal.<br>
 I'm currently employed as a Frontend Developer at <a href="https://www.blip.pt/">Blip</a>, working on internal tools for <a href="https://fanduel.com">FanDuel</a>.<br>
 In my free time I enjoy exploring ways to create art in different mediums, whether it is <a class="internal new" href="#/content/audio.md">audio</a>, <a class="internal new" href="#/content/visual.md">visual</a>, <a class="internal new" href="#/content/demoscene.md">code</a>, <a class="internal new" href="#/content/photography.md">photography</a>...</p>
@@ -43,7 +43,7 @@ Web demo, cables.gl, <strong>2022</strong><br>
 <p><img src="/longe//assets/d1ef.321102.jpg" alt=""><br>
 4kb executable, GLSL, <strong>2021</strong><br>
 <a href="https://files.scene.org/get/parties/2021/revision21/pc-4k-intro/mafamood.zip">download</a><br>
-<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/index.md…£cwd­C:\safe\longe¤data¦matter¥title§Welcome§history‘°content/index.md¨messages¥valueÚg<p>{{component:Avatar}}</p>
+<a href="https://www.youtube.com/watch?v=qpU47WklPRg">youtube</a></p>°content/index.md…£cwd­C:\safe\longe¤data¦matter¥title§Welcome§history‘°content/index.md¨messages¥valueÚ¿<p>{{component:Avatar}}</p>
 <p>This is the page of <a class="internal new" href="#/content/about.md">J. Faria</a>, software engineer &#x26; multimedia creative.<br>
 It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/digital-gardeners#theory-philosophy-and-navel-gazing">digital garden</a> at the same time.</p>
 <h3>Portfolio</h3>
@@ -51,6 +51,7 @@ It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/dig
 <a class="internal new" href="#/content/audio.md">Audio</a> ğŸ‘‚ï¸<br>
 <a class="internal new" href="#/content/visual.md">Visual</a> ğŸ‘ï¸<br>
 <a class="internal new" href="#/content/talks.md">Talks</a> ğŸ—£ï¸<br>
+<a class="internal new" href="#/content/live_coding.md">Live Coding</a> ğŸ‘©â€ğŸ’»<br>
 <a class="internal new" href="#/content/demoscene.md">Demoscene</a> ğŸ’¿<br>
 <a class="internal new" href="#/content/live_art.md">Live Art</a> ğŸ­ï¸</p>
 <h3>Other interests</h3>
@@ -58,7 +59,23 @@ It functions as a portfolio and a <a href="https://github.com/MaggieAppleton/dig
 <h4>Contact</h4>
 <p><a href="mailto://joaormfaria@gmail.com">E-mail</a> ğŸ“§<br>
 <a href="https://www.github.com/anticore">Github</a> ğŸ‘©â€ğŸ’»<br>
-<a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter¥title¨Live Art§history‘³content/live_art.md¨messages¥valueÙ#<p><em>Work in progress...</em></p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter¥title«Photography§history‘¶content/photography.md¨messages¥valueÚË<p><strong>Note</strong>: I know nothing about photography technique or gear.<br>
+<a href="https://linkedin.com/in/joao-rm-faria">LinkedIn</a> ğŸ’¼</p>³content/live_art.md…£cwd­C:\safe\longe¤data¦matter¥title¨Live Art§history‘³content/live_art.md¨messages¥valueÙ#<p><em>Work in progress...</em></p>¶content/live_coding.md…£cwd­C:\safe\longe¤data¦matter¥title«Live Coding§history‘¶content/live_coding.md¨messages¥valueÚ	<p>Mostly through the demoscene, I sometimes participate in live coding events and competitions.<br>
+You can find some VODs below. For more check <a href="https://livecode.demozoo.org/performer/anticore.html#mc">my profile @ livecode.demozoo.org</a></p>
+<h3>Sessions 2023</h3>
+<iframe width="200" height="113" src="https://www.youtube.com/embed/BCwIaDP8UFs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Shader Jam - SESSIONS in C4 LAN 2023 SPRING"></iframe>
+<p><a href="https://www.shadertoy.com/view/dtd3zf">shader on shadertoy</a></p>
+<h3>livecode.demozoo.org release party</h3>
+<iframe width="200" height="113" src="https://www.youtube.com/embed/-1XC1ikDLgI?start=5278&#x26;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="livecode.demozoo.org Release Party!"></iframe>
+<p><a href="https://www.shadertoy.com/view/ftjGWV">shader on shadertoy</a></p>
+<h3>Outline 2021 Shader Showdown</h3>
+<iframe width="200" height="113" src="https://www.youtube.com/embed/WNxlDgTitZE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Outline 2021 - Shader Showdown Group Phase Friday"></iframe>
+<p><a href="https://www.shadertoy.com/view/ssjSDV">shader on shadertoy</a></p>
+<h3>Revision 2021 Shader Showdown</h3>
+<iframe width="200" height="113" src="https://www.youtube.com/embed/gKmHg5Y9arM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Revision Online 2021 - Event - Shader Showdown Quarter-Finals"></iframe>
+<p><a href="https://www.shadertoy.com/view/sdjGWm">shader on shadertoy</a></p>
+<h3>Shader Royale</h3>
+<iframe width="200" height="113" src="https://www.youtube.com/embed/wwN5vRXKAl8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Shader Royale #2"></iframe>
+<p><a href="https://www.shadertoy.com/view/WdKBWD">shader on shadertoy</a></p>¶content/photography.md…£cwd­C:\safe\longe¤data¦matter¥title«Photography§history‘¶content/photography.md¨messages¥valueÚË<p><strong>Note</strong>: I know nothing about photography technique or gear.<br>
 I just like to point and shoot the lens at things I find interesting.<br>
 Mostly analogue point and shoot cameras.</p>
 <p><img src="/longe//assets/Pasted%20image%2020240227123954.png" alt=""></p>
