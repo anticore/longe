@@ -10,6 +10,7 @@ It functions as a portfolio and a [digital garden](https://github.com/MaggieAppl
 [[audio|Audio]] 👂️
 [[visual|Visual]] 👁️ 
 [[talks|Talks]] 🗣️
+[[live_coding|Live Coding]] 👩‍💻
 [[demoscene|Demoscene]] 💿
 [[live_art|Live Art]] 🎭️
 

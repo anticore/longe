@@ -22,9 +22,11 @@ const ContentRenderer: React.FC = () => {
       {updated && <small>Updated on: {updated}</small>}
       {parse(currentContent.value, {
         // eslint-disable-next-line
-        replace: ({ children, name }: any) =>
-          name === "p" &&
-          children[0].data === "{{component:Avatar}}" && <Avatar />,
+        replace: ({ children, name }: any) => {
+          if (name === "p" && children[0].data === "{{component:Avatar}}") {
+            return <Avatar />;
+          }
+        },
       })}
     </div>
   );

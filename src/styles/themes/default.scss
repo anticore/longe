@@ -38,7 +38,8 @@ body {
   margin: 0;
 }
 
-p {
+p,
+iframe {
   font-size: 1rem;
   margin-bottom: 1.3rem;
   display: table;
@@ -137,6 +138,13 @@ h3,
 h4,
 h5,
 h6,
-small {
+small,
+iframe {
   animation: fadeIn 0.5s ease-in-out;
+}
+
+iframe {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: 100%;
 }

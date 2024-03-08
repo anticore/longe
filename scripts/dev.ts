@@ -9,7 +9,7 @@ dotenv.config();
 const __dirname = fileURLToPath(new URL("..", import.meta.url));
 
 export const handleDev = async () => {
-  //await parseVault();
+  await parseVault();
   //await exportCables(config.patches);
 
   // dynamic import of vite to solve CJS deprecated warning

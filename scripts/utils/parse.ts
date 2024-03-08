@@ -6,6 +6,8 @@ import remarkFrontmatter from "remark-frontmatter";
 import remarkBreaks from "remark-breaks";
 import remarkWikilink from "remark-wiki-link";
 import remarkObsidianImages from "./remarkObsidianImages";
+import remarkEmbedder from "@remark-embedder/core";
+import oembedTransformer from "@remark-embedder/transformer-oembed";
 import fg from "fast-glob";
 import { writeFile, cp } from "fs/promises";
 import { matter } from "vfile-matter";
@@ -14,6 +16,10 @@ import { encode } from "@msgpack/msgpack";
 
 export const parseMd = async (mdFilePath: string) =>
   await unified()
+    // eslint-disable-next-line
+    .use(remarkEmbedder as any, {
+      transformers: [oembedTransformer],
+    })
     .use(remarkParse, { allowDangerousHtml: true })
     .use(remarkBreaks)
     .use(remarkObsidianImages)
